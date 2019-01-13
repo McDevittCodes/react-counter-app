@@ -1,4 +1,55 @@
+# Learn React - React Crash Course 2018 - React Tutorial with Examples
+
+Tutorial: https://www.youtube.com/watch?v=Ke90Tje7VS0
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Summary
+
+In the tutorial, we built a React counter application that exhibits patterns that you see on a shopping cart page. 
+
+### Functionality
+* Change item quanitity
+* Delete items 
+* Reset the quanitity of all items to zero
+* Navigation bar shows the number of unique items
+
+### Topics Covered
+* Components
+* Embedding Expressions
+* Setting Attributes
+* Rendering Classes Dynamically
+* Rendering Lists
+* Conditional Rendering
+* Handling Events
+* Binding Event Handlers
+* Updating the State
+* State Changes
+* Passing Event Arguments
+* Composing Components
+* Passing Data to Components
+* Passing Children
+* Debugging
+* Props vs State
+* Raising and Handling Events
+* Single Source of Truth
+* Removing the Local State
+* Multiple Components in Sync 
+* Lifting the State Up
+* Stateless Functional Components
+* Destructuring Arguments
+* Lifecycle Hooks
+* Mounting Phase 
+* Updating Phase 
+* Unmounting Phase
+
+### Technologies Used 
+* HTML
+* CSS
+* Bootstrap
+* ES6 JavaScript
+* React
+* Create React App
 
 ## Available Scripts
 
@@ -66,4 +117,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# react-counter-app
